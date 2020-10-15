@@ -284,6 +284,8 @@ def parse_file(file_name, flag):
 if __name__ == "__main__":
     if len(sys.argv[1:]) == 1:
         arg = '--prog'
+        name = sys.argv[1]
     else:
-        arg = sys.argv[2]
-    parse_file(sys.argv[1], arg)
+        arg = sys.argv[1]
+        name = sys.argv[2]
+    parse_file(name, arg)
