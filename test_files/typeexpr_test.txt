@@ -1,0 +1,7 @@
+a
+Y -> X
+(Y -> X)
+(A -> B) -> C
+A -> B -> C
+list (list A) -> list A -> o
+pair A B -> (A -> C) -> (B -> D) -> pair C D

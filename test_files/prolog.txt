@@ -1,0 +1,5 @@
+module main.
+
+type print X -> show Y.
+print [X] :- show [x | T].
+print [T] :- show T.

@@ -1,0 +1,7 @@
+type a b.
+type a b -> X.
+type filter (A -> o) -> list a -> list a -> o.
+type filter (A -> o) -> list A -> list A -> o.
+type filter (((A -> o))) -> (list A) -> list A -> o.
+type a (((b))).
+type d a -> (((b))).

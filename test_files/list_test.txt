@@ -1,0 +1,8 @@
+[]
+[a]
+[A,B]
+[a (b c), B, C]
+[a | T]
+[ [a] | T]
+[ [H | T], a]
+[[name, password],[id, number] | Qwerty]

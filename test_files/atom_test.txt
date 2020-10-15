@@ -1,0 +1,9 @@
+a
+a b c
+a (b c)
+a ((b c))
+a ((b c)) d
+a ((b c))  (d)
+a ((b   c))   (d)
+a((b c))(d)
+a B C [X, Y]
